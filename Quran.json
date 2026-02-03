@@ -1,0 +1,24 @@
+{
+  "surahs": [
+    {
+      "name": "Al-Fatiha",
+      "ayahs": [
+        "In the name of Allah, the Most Gracious, the Most Merciful.",
+        "All praise is due to Allah, Lord of the worlds.",
+        "The Most Gracious, the Most Merciful.",
+        "Master of the Day of Judgment.",
+        "You alone we worship; You alone we ask for help.",
+        "Guide us on the Straight Path,",
+        "The path of those upon whom You have bestowed favor, not of those who have evoked Your anger or of those who are astray."
+      ]
+    },
+    {
+      "name": "Al-Baqarah",
+      "ayahs": [
+        "Alif, Lam, Meem.",
+        "This is the Book about which there is no doubt, a guidance for those conscious of Allah.",
+        "Who believe in the unseen, establish prayer, and spend out of what We have provided them..."
+      ]
+    }
+  ]
+}
